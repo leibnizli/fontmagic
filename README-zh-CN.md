@@ -22,3 +22,12 @@
 * <a href="https://thunkli.com/fontmagic-download">**macOS**</a> （上海节点）
 * <a href="https://thunkli.com/fontmagic-download">**Windows**</a> （上海节点）
 
+## 软件界面
+
+### macOS
+
+<img src="https://github.com/leibnizli/fontmagic/assets/1193966/61587d8e-3643-475e-a96d-813ccb5a939c" width="300">
+
+### windows
+
+<img src="https://github.com/leibnizli/fontmagic/assets/1193966/8341cc3d-df4c-49dc-9361-9eebae2f7c45" width="300">
