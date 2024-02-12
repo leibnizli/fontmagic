@@ -30,3 +30,9 @@ English | [简体中文](./README-zh-CN.md)
 
 <img src="https://github.com/leibnizli/fontmagic/assets/1193966/8341cc3d-df4c-49dc-9361-9eebae2f7c45" width="300">
 
+## Similar product
+
+I developed them all🤣
+
+* <a href="https://github.com/leibnizli/panda">Panda</a>
+* <a href="https://github.com/leibnizli/WebFont">WebFont</a>

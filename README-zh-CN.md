@@ -31,3 +31,10 @@
 ### windows
 
 <img src="https://github.com/leibnizli/fontmagic/assets/1193966/8341cc3d-df4c-49dc-9361-9eebae2f7c45" width="300">
+
+## 相似产品
+
+都是我开发🤣
+
+* <a href="https://github.com/leibnizli/panda">Panda</a>
+* <a href="https://github.com/leibnizli/WebFont">WebFont</a>
