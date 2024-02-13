@@ -13,7 +13,7 @@
 ### International network (国际网)
 
 * <a href="https://github.com/leibnizli/fontmagic/releases/download/v1.0.0/FontMagic-arm64-Apple-Silicon.dmg">**macOS**</a>（Apple Silicon, github）
-* <a href="https://github.com/leibnizli/fontmagic/releases/download/v1.0.0/FontMagic-x86_64-Intel.dmg">**Windows**</a>（Intel， github）
+* <a href="https://github.com/leibnizli/fontmagic/releases/download/v1.0.0/FontMagic-x86_64-Intel.dmg">**macOS**</a>（Intel， github）
 * <a href="https://github.com/leibnizli/fontmagic/releases/download/v1.0.0/FontMagic.exe">**Windows**</a>（github）
 
 
