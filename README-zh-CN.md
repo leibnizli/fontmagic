@@ -19,8 +19,8 @@
 
 ### Non-international network（非国际网）
 
-* <a href="https://thunkli.com/download/fontmagic-macos">**macOS**</a>（Apple Silicon，上海节点）
-* <a href="https://thunkli.com/download/fontmagic-x86_64-macos">**macOS**</a>（Intel，上海节点）
+* <a href="https://thunkli.com/download/fontmagic-arm64-macos">**macOS**</a>（Apple Silicon，上海节点）
+* <a href="https://thunkli.com/download/fontmagic-macos">**macOS**</a>（Intel，上海节点）
 * <a href="https://thunkli.com/download/fontmagic-windows">**Windows**</a> （上海节点）
 
 
