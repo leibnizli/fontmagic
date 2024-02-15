@@ -9,6 +9,9 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Install
 
+* [What is Apple Silicon？](https://arayofsunshine.dev/blog/apple-silicon)
+* [macOS App cannot be opened](https://arayofsunshine.dev/blog/macos-app-cannot-be-opened)
+
 ### International network (国际网)
 
 * <a href="https://github.com/leibnizli/fontmagic/releases/download/v1.0.0/FontMagic-arm64-Apple-Silicon.dmg">**macOS**</a>（Apple Silicon, github）
