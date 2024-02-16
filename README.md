@@ -38,7 +38,7 @@ English | [简体中文](./README-zh-CN.md)
 
 ## Similar product
 
-I developed them all🤣
+All developed by me🤣
 
 * <a href="https://github.com/leibnizli/panda">Panda</a>
 * <a href="https://github.com/leibnizli/WebFont">WebFont</a>
