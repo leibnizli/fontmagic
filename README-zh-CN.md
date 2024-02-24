@@ -39,7 +39,4 @@
 
 ## 相似产品
 
-都是我开发🤣
-
-* <a href="https://github.com/leibnizli/panda">Panda</a>
 * <a href="https://github.com/leibnizli/WebFont">WebFont</a>
