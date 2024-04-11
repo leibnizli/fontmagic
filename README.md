@@ -29,7 +29,9 @@ English | [简体中文](./README-zh-CN.md)
 
 ### macOS
 
-<img src="https://github.com/leibnizli/fontmagic/assets/1193966/61587d8e-3643-475e-a96d-813ccb5a939c" width="300">
+<img src="https://github.com/leibnizli/fontmagic/assets/1193966/5a545983-1c89-4e9c-ae9a-197c41300d30" width="200">
+<img src="https://github.com/leibnizli/fontmagic/assets/1193966/d41ccd03-3536-464d-97ec-dba5cc2d4d1b" width="200">
+
 
 ### windows
 
