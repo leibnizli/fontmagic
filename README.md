@@ -7,7 +7,7 @@ English | [简体中文](./README-zh-CN.md)
 3. The format of font files can be converted, and the formats of ttf, woff, and woff2 can be converted to each other.
 4. You can quickly obtain the base64 encoding of the font file, just click a button.
 
-> [Webfont](https://arayofsunshine.dev/webfont/getting-started) (1.7 MB, 0.99$) has a smaller size than FontMagic (79.6 MB) and saves disk space. WebFont has more excellent performance, WebFont parsing speed is 100 times that of FontMagic.
+> [Webfont](https://arayofsunshine.dev/webfont/getting-started) (macOS, 1.7 MB, 0.99$) has a smaller size than FontMagic (79.6 MB) and saves disk space. WebFont has more excellent performance, WebFont parsing speed is 100 times that of FontMagic.
 
 ## Install
 
