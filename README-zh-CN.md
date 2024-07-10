@@ -8,7 +8,7 @@
 3. 可以对字体文件的格式进行转换，可以在ttf、woff、woff2三种格式中互相转换。
 4. 可以快速获取字体文件的base64编码，仅仅需要点击一次按钮。
 
-> [WebFont](https://arayofsunshine.dev/zh-Hans/fontmagic/getting-started)(1.7 MB，0.99$)相比FontMagic(79.6 MB)拥有更小的体积，更节省磁盘空间。WebFont拥有更卓越的性能，WebFont解析速度是FontMagic的100倍。
+> [WebFont](https://arayofsunshine.dev/zh-Hans/webfont/getting-started)(1.7 MB，0.99$)相比FontMagic(79.6 MB)拥有更小的体积，更节省磁盘空间。WebFont拥有更卓越的性能，WebFont解析速度是FontMagic的100倍。
 
 ## 安装
 
