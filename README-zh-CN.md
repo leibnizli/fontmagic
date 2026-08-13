@@ -12,12 +12,7 @@
 
 ## 安装
 
-* [什么是Apple Silicon？](https://arayofsunshine.dev/zh-Hans/blog/apple-silicon)
-* [macOS App打不开](https://arayofsunshine.dev//zh-Hans/blog/macos-app-cannot-be-opened)
-
-### International network (国际网)
-
-* <a href="https://github.com/leibnizli/fontmagic/releases">**macOS**</a>（github）
+* <a href="https://apps.apple.com/cn/app/webfont-%E5%AD%97%E4%BD%93%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/id1181350496?mt=12">**macOS**(Paid version)</a>
 * <a href="https://github.com/leibnizli/fontmagic/releases">**Windows**</a>（github）
 
 ## 软件界面
@@ -30,7 +25,3 @@
 ### windows
 
 <img src="https://github.com/leibnizli/fontmagic/assets/1193966/8341cc3d-df4c-49dc-9361-9eebae2f7c45" width="300">
-
-## 相似产品
-
-* <a href="https://github.com/leibnizli/WebFont">WebFont</a>
