@@ -8,19 +8,12 @@
 3. 可以对字体文件的格式进行转换，可以在ttf、woff、woff2三种格式中互相转换。
 4. 可以快速获取字体文件的base64编码，仅仅需要点击一次按钮。
 
-> [WebFont for macOS](https://arayofsunshine.dev/zh-Hans/webfont/getting-started)(macOS，1.7 MB，0.99$)相比FontMagic(79.6 MB)拥有更小的体积，更节省磁盘空间。WebFont拥有更卓越的性能，WebFont解析速度是FontMagic的100倍。
-
 ## 安装
 
 * <a href="https://apps.apple.com/cn/app/webfont-%E5%AD%97%E4%BD%93%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/id1181350496?mt=12">**macOS**(Paid version)</a>
 * <a href="https://github.com/leibnizli/fontmagic/releases">**Windows**</a>（github）
 
 ## 软件界面
-
-### macOS
-
-<img src="https://github.com/leibnizli/fontmagic/assets/1193966/5a545983-1c89-4e9c-ae9a-197c41300d30" width="200">
-<img src="https://github.com/leibnizli/fontmagic/assets/1193966/d41ccd03-3536-464d-97ec-dba5cc2d4d1b" width="200">
 
 ### windows
 

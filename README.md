@@ -7,19 +7,12 @@ English | [简体中文](./README-zh-CN.md)
 3. The format of font files can be converted, and the formats of ttf, woff, and woff2 can be converted to each other.
 4. You can quickly obtain the base64 encoding of the font file, just click a button.
 
-> [Webfont](https://arayofsunshine.dev/webfont/getting-started) (macOS, 1.7 MB, 0.99$) has a smaller size than FontMagic (79.6 MB) and saves disk space. WebFont has more excellent performance, WebFont parsing speed is 100 times that of FontMagic.
-
 ## Install
 
 * <a href="https://apps.apple.com/cn/app/webfont-%E5%AD%97%E4%BD%93%E6%9E%84%E5%BB%BA%E5%B7%A5%E5%85%B7/id1181350496?mt=12">**macOS**(Paid version)</a>
 * <a href="https://github.com/leibnizli/fontmagic/releases">**Windows**</a>（github）
 
 ## Software interface
-
-### macOS
-
-<img src="https://github.com/leibnizli/fontmagic/assets/1193966/5a545983-1c89-4e9c-ae9a-197c41300d30" width="200">
-<img src="https://github.com/leibnizli/fontmagic/assets/1193966/d41ccd03-3536-464d-97ec-dba5cc2d4d1b" width="200">
 
 
 ### windows
